@@ -26,6 +26,7 @@ _LANGUAGE_META: dict[str, tuple[str, str]] = {
     'ua': ('Українська', '🇺🇦'),
     'zh': ('中文', '🇨🇳'),
     'fa': ('فارسی', '🇮🇷'),
+    'uz': ("O'zbekcha", '🇺🇿'),
 }
 
 

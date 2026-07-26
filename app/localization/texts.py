@@ -90,6 +90,18 @@ _DYNAMIC_LANGUAGE_CONFIGS = {
             '⏰ 响应时间：通常在 1-2 小时内\n'
         ),
     },
+    'uz': {
+        'traffic_pattern': '📊 {size} GB - {price}',
+        'unlimited_pattern': '📊 Cheksiz - {price}',
+        'support_info': (
+            '\n🛟 <b>Yordam</b>\n\n'
+            "Bu tiketlar markazi: murojaat yarating, javoblar va tarixni ko'ring.\n\n"
+            "• 🎫 Tiket yaratish — muammo yoki savolingizni tavsiflang\n"
+            "• 📋 Tiketlarim — holat va yozishmalar\n"
+            "• 💬 Bog'lanish — to'g'ridan-to'g'ri yozish (kerak bo'lsa)\n\n"
+            "Tiketlardan foydalaning — shunda biz tezroq yordam beramiz.\n"
+        ),
+    },
 }
 
 
